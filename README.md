@@ -1,4 +1,9 @@
 # Resource Management System
+- Designed login hierarchy for different levels of user privilege (administer, manager, and user).
+- Designed setup pages for users to manage/set up resources, devices, and map.
+- Developed a map player function that allows users to specify a time period/location and then displays the tracking location history of all resources in real-time by analyzing BLE tag tracking data in the database. 
+- Utilized: Frontend: JavaScript, JQuery, HTML, CSS; Backend: PHP, SQL, MySQL).
+
 **01.Login**  
 ![Alt text](https://imgur.com/xxhZoEC.png "01.login")  
 
